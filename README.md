@@ -2,7 +2,7 @@
 
 
 ## Sobre o projeto
-O intuito de fazer esse projeto foi um disputa entre meu colega de trabalho, não fiz muito coisa importante nele somente o layout.
+O intuito de fazer esse projeto foi um disputa entre meu colega de trabalho, não fiz muita coisa importante nele somente o layout.
 
 ## Tecnologias
 - HTML
